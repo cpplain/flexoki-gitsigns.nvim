@@ -1,4 +1,4 @@
-M = {}
+local M = {}
 
 ---@module "flexoki"
 ---@param colors flexoki.ThemeColors

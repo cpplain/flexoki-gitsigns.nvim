@@ -2,9 +2,8 @@ local M = {}
 
 ---@module "flexoki"
 ---@param colors flexoki.ThemeColors
----@return flexoki.HighlightGroups
+---@return flexoki.HighlightGroup
 function M.get(colors)
-    ---@type flexoki.HighlightGroups
     return {
         GitSignsAdd = { fg = colors.green },
         GitSignsChange = { fg = colors.yellow },

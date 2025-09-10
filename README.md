@@ -1,5 +1,8 @@
 # flexoki-gitsigns.nvim
 
+> [!CAUTION]
+> I moved all color scheme code directly into my dotfiles repo. This plugin is now archived.
+
 A [gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) color scheme integration for [flexoki.nvim](https://github.com/cpplain/flexoki.nvim), an inky color scheme for [Neovim](https://github.com/neovim/neovim). Based on [stephango.com/flexoki](https://stephango.com/flexoki).
 
 ## Features
